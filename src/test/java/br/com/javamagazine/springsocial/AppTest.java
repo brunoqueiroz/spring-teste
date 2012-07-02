@@ -17,7 +17,7 @@ public class AppTest
      */
     public AppTest( String testName )
     {
-        super( testName55 );
+        super( testName663 );
     }
 
     /**
